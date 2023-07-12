@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
+import Ayush from "./components/Ayush";
 
 
 function App() {
@@ -11,6 +12,8 @@ function App() {
     
 
     <Home />
+
+    {/* <Ayush /> */}
     
     
     

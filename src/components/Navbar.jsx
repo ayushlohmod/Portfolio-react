@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="fixed w-full h-[60px] flex justify-between items-center px-4 bg-zinc-800">
       
       <div className='flex items-center px-16 text-white text-lg'>
-      <h1>  ayush / </h1>
+      <h1>&lt;  ayush / &gt;</h1>
       
       </div>
         <ul className='flex text-zinc-400 gap-3 pr-16'>
